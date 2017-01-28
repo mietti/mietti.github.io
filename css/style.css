@@ -231,7 +231,7 @@ tr,td {
 	float:left;
 	margin: 20px 65px 10px 75px;
 	width: 900px;
-    height: 250px;
+    /*height: 250px;*/
 	text-align: center;
     background-image: url(../img/kabe-wood.png);
 	background-size: cover;
@@ -242,7 +242,7 @@ tr,td {
 	float:left;
 	margin: 10px 75px;
 	width: 900px;
-	height: 250px;
+	/*height: 250px;*/
 	text-align: center;
     background-image: url(../img/kabe-wood.png);
 	background-size: cover;
@@ -253,7 +253,7 @@ tr,td {
 	float:left;
 	margin: 10px 75px;
 	width: 900px;
-	height: 100px;
+	/*height: 100px;*/
 	text-align: center;
     background-image: url(../img/kabe-wood.png);
 	background-size: cover;
@@ -264,7 +264,7 @@ tr,td {
 	float:left;
 	margin: 10px 75px;
 	width: 900px;
-	height: 230px;
+	/*height: 230px;*/
 	text-align: center;
 	background-image: url(../img/kabe-wood.png);
 	background-size: cover;
@@ -272,7 +272,7 @@ tr,td {
 	box-shadow: 10px 10px 10px rgba(0,0,0,0.4); 
 }
 .consept-bottom {
-	height: 200px;
+	/*height: 200px;*/
 	width: 900px;
 	color: #492200;
 	font-family: "SimHei";
@@ -308,7 +308,7 @@ tr,td {
 	/*background-color: blue;*/
 	margin: 30px auto;
 	width: 500px;
-	height: 150px;
+	/*height: 150px;*/
 	text-align: left;
 }
 .news-left {
@@ -331,7 +331,7 @@ tr,td {
 	/*background-color: blue;*/
 	margin: 0 auto;
 	width: 500px;
-	height: 150px;
+	/*height: 150px;*/
 }
 .about-right p {
 	margin-top: 40px; 
@@ -362,7 +362,7 @@ tr,td {
 	/*background-color: blue;*/
 	margin: 0 auto;
 	width: 500px;
-	height: 150px;
+	/*height: 150px;*/
 }
 .store-info-right p {
 	margin-top: 10px; 
